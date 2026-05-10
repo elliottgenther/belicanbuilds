@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Belican Builds</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Belican Builds</description>
+    <title>Projects on Belican Builds</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Belican Builds</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 May 2026 10:19:18 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Big L Desk</title>
       <link>http://localhost:1313/projects/big-l-desk/</link>
@@ -42,13 +42,6 @@
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/bluestone-patio/</guid>
       <description>&lt;h2 id=&#34;before&#34;&gt;Before&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/projects/bluestone-patio-before.jpg&#34; alt=&#34;Before&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;after&#34;&gt;After&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/projects/bluestone-patio-after.jpg&#34; alt=&#34;After&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-story&#34;&gt;The Story&lt;/h2&gt;&#xA;&lt;p&gt;This project was all about defining and connecting spaces.&lt;/p&gt;&#xA;&lt;p&gt;The backyard had untapped potential, but getting from the back door to the garage meant crossing patchy grass — and on rainy days, that meant dragging mud into the house. There was no real place to sit outside, no reason to linger.&lt;/p&gt;&#xA;&lt;p&gt;Natural bluestone was the answer. Beautiful and functional in equal measure, it created a hardscape that works as both a living space and a practical path between structures. The stone is laid to carry water away from both buildings, where it used to pool during heavy rains.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/elliott.jpg&#34; alt=&#34;Elliott Genther&#34;&gt;&#xA;Originally from St. Louis, I moved to Charleston in August of 2001 to attend the College of Charleston. A good friend of mine, many years post-graduation, described our experience as &amp;ldquo;not a terribly rigorous education, but it gave us space to spread our wings.&amp;rdquo; This rang true. While I worked at various restaurants to pay the bills, my favorite way to make extra money turned out to be playing in a band called Swiftwater Rescue. We got our start when the owner of Zuppa, a wonderful soup and sandwich shop on Warren Street, heard us practicing, knocked on our door, and asked if we&amp;rsquo;d like to play on his patio. First gig of many. We had a blast.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

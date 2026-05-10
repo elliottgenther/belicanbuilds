@@ -6,7 +6,15 @@ theme: ananke
 params:
   description: "Craftsman-quality renovations and home improvements for the Lowcountry. Built to last, designed to work."
   author: Elliott Genther
-  site_logo:
   background_color_class: "bg-black"
   featured_image: /images/hero.jpg
   recent_posts_number: 3
+
+menus:
+  main:
+    - name: Projects
+      url: /projects/
+      weight: 1
+    - name: About
+      url: /about/
+      weight: 2
