@@ -1,0 +1,12 @@
+baseURL: https://belicanbuilds.com/
+locale: en-us
+title: Belican Builds
+theme: ananke
+
+params:
+  description: "Craftsman-quality renovations and home improvements for the Lowcountry. Built to last, designed to work."
+  author: Elliott Genther
+  site_logo: /images/pelican.png
+  background_color_class: "bg-black"
+  featured_image: /images/hero.jpg
+  recent_posts_number: 3
