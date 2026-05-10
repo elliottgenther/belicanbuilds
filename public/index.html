@@ -62,7 +62,21 @@
   <meta name="twitter:title" content="Belican Builds">
   <meta name="twitter:description" content="Craft. Function. Home.">
 
-	
+	<style>
+  header.cover {
+    background-position: center 30% !important;
+    background-size: 150% !important;
+  }
+</style>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var header = document.querySelector('header.cover');
+    if (header) {
+      header.style.backgroundPosition = 'center 30%';
+      header.style.backgroundSize = '150%';
+    }
+  });
+</script>
   </head><body class="ma0 avenir bg-near-white development is-home">
     
 
@@ -75,7 +89,7 @@
   <div class="flex-l center items-center justify-between">
     <a href="/" class="f3 fw2 hover-white white-90 dib no-underline">
       
-        <img src="/images/pelican.png" class="w100 mw5-ns" alt="Belican Builds" />
+        Belican Builds
       
     </a>
     <div class="flex-l items-center">
