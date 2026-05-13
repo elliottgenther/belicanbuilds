@@ -20,3 +20,6 @@ menus:
     - name: About
       url: /about/
       weight: 2
+    - name: How We Work
+      url: /how-we-work/
+      weight: 3
