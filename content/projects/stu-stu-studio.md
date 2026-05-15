@@ -3,7 +3,7 @@ date: 2026-05-15
 draft: false
 title: "Stu Stu Studio"
 description: "A garage renovation transformed into a bright, functional studio with a flexible layout and thoughtful details."
-featured_image: "/images/projects/Studio/studio-1.jpeg"
+featured_image: "/images/projects/Studio/studio-3.jpeg"
 ---
 
 ## Before
