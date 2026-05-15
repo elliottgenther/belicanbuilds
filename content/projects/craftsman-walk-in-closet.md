@@ -1,3 +1,4 @@
+---
 date: '2026-05-10T10:19:07-04:00'
 draft: false
 title: 'Craftsman Walk in Closet'
