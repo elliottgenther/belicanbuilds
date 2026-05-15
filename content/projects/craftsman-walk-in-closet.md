@@ -17,6 +17,7 @@ We created three separate structures to make the space functional and organized:
 - Right: cubbies of various heights for shoes and odds-and-ends.
 - Center: a tall vertical tower with a hidden laundry hamper space and shelving for folded clothing and accessories, flanked by a two-tiered hanging system on either side to separate casual everyday wear from nicer options.
 - Left: a tower with a hanging rack sized for longer items and lower cubbies for miscellaneous storage.
+- Removed popcorn ceilings, repaired drywall damage, primed, and painted.
 
 ## The Story
 
