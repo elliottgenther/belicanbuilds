@@ -22,6 +22,8 @@ We matched the existing Hardie board siding so the exterior feels consistent. Wh
 
 In the back left corner, we created a bedroom area that is visually striking and intentionally flexible. Rather than walling it off, we used blinds so the space can change as needed. Built-in bookshelves on the bedroom side make use of the area and avoid furniture clutter.
 
+Between the bedroom and bathroom, we added a closet with sliding mirror doors to make the space feel even bigger. Inside the closet, we used fragrant cedar for the interior, so the storage feels as good as it looks.
+
 The back corner also houses a bathroom with a floating sink, room for a hamper, and a stacked washer and dryer. The rear half of the space was raised to accommodate plumbing and to create a split-level feel that makes the layout more interesting.
 
 We framed the former garage door opening on the interior and added a French door. This gives the option for privacy or an open layout. We used open-cell insulation in the walls and closed-cell insulation between the rafters. After applying a fire-retardant barrier, we sprayed the ceiling paint multiple times until the color was right.
