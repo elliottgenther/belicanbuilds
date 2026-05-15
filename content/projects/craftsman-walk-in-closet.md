@@ -33,3 +33,5 @@ The reconfiguration turns an unruly, inefficient closet into an orderly, purpose
 ![Walk-in 4](/images/projects/walk-in-4.jpeg)
 
 ![Walk-in 5](/images/projects/walk-in-5.jpeg)
+
+![Walk-in 6](/images/projects/walk-in-6.jpeg)
