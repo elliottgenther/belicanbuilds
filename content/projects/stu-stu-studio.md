@@ -3,7 +3,7 @@ date: 2026-05-15
 draft: false
 title: "Stu Stu Studio"
 description: "A garage renovation transformed into a bright, functional studio with a flexible layout and thoughtful details."
-featured_image: "/images/hero.jpg"
+featured_image: "/images/projects/Studio/studio-1.jpeg"
 ---
 
 ## Before
@@ -29,3 +29,17 @@ We framed in the garage door opening on the interior and added a French door, gi
 We painted the walls a warm white dove and painted the floor with the thought of maybe returning later for tile or hardwood.
 
 This project was incredibly fun and rewarding from concept to completion. It ended up fantastic. It's small but feels palatial for one — well designed without being overthought, and simply a peaceful place to just be.
+
+## Gallery
+
+![Stu Stu Studio 1](/images/projects/Studio/studio-1.jpeg)
+
+![Stu Stu Studio 2](/images/projects/Studio/studio-2.jpeg)
+
+![Stu Stu Studio 3](/images/projects/Studio/studio-3.jpeg)
+
+![Stu Stu Studio 4](/images/projects/Studio/studio-4.jpeg)
+
+![Stu Stu Studio 5](/images/projects/Studio/studio-5.jpeg)
+
+![Stu Stu Studio 6](/images/projects/Studio/studio-6.jpeg)
