@@ -14,7 +14,7 @@ This was a 500 sq ft detached two-car garage with a prominent overhang at the en
 
 We created a 700 sq ft studio with exposed rafters and an intentional floor plan that makes the most of the available space.
 
-## The Story
+## Details
 
 This renovation turned a dusty old garage into a bright, functional studio. We split the existing overhang space into two, framing the left half as a sunroom wrapped in windows and opening the right half into a front porch. Several 4x4 posts reinforce the structure and define the porch area, while curtains provide privacy when needed.
 

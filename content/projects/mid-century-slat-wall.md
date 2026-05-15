@@ -13,7 +13,7 @@ featured_image: "/images/projects/slat-wall-after.jpg"
 
 ![After](/images/projects/slat-wall-after.jpg)
 
-## The Story
+## Details
 
 Whoever built this house thought it was a good idea to plant a porch pillar right between 
 the dining room and living room. Structurally necessary, but visually, an eyesore.

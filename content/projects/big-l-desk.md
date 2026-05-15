@@ -29,6 +29,6 @@ The original setup was cramped and felt temporary. The client needed a workspace
 
 The final desk is a balanced, purposeful layout with a dedicated side for the day job and a separate side for hobby projects. It keeps both zones open, accessible, and visually unified.
 
-## The Story
+## Details
 
 The goal was to make the desk itself part of the solution. By letting the plywood edges show and keeping the structure simple, the desk feels honest and durable rather than overbuilt. The result is a clean, functional workspace that supports the way the client actually works.

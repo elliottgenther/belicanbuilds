@@ -14,6 +14,6 @@ There was a small, unfinished corner behind the house that was perfect for a bac
 
 The finished space is a comfortable outdoor shower wrapped in cedar, with a rain shower head, stone floor, and a fence that keeps the area private while still letting air and light in.
 
-## The Story
+## Details
 
 We built the gazebo structure from the ground up, making sure the framing, waterproofing, and drainage all worked together. The finished shower is both practical after beach days and beautiful enough to be a destination in the yard.

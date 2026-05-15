@@ -19,7 +19,7 @@ We created three separate structures to make the space functional and organized:
 - Left: a tower with a hanging rack sized for longer items and lower cubbies for miscellaneous storage.
 - Removed popcorn ceilings, repaired drywall damage, primed, and painted.
 
-## The Story
+## Details
 
 The reconfiguration turns an unruly, inefficient closet into an orderly, purposeful dressing space. By combining cubbies, stacked shelving, and double-hang rails we made the most of the volume while keeping everything accessible and neatly stowed.
 

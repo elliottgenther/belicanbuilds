@@ -13,7 +13,7 @@ featured_image: "/images/projects/bluestone-patio-after.jpg"
 
 ![After](/images/projects/bluestone-patio-after.jpg)
 
-## The Story
+## Details
 
 This project was all about defining and connecting spaces.
 
