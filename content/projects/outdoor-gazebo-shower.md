@@ -3,7 +3,7 @@ date: '2026-05-10T10:18:56-04:00'
 draft: false
 title: 'Outdoor Gazebo Shower'
 description: "A private outdoor shower in a charming cedar gazebo setting that transformed a neglected backyard into a beautiful destination."
-featured_image: "/images/projects/outdoor-gazebo-shower/gazebo-11.jpeg"
+featured_image: "/images/projects/outdoor-gazebo-shower/gazebo-9.jpeg"
 ---
 
 ## Problem
