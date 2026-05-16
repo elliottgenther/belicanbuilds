@@ -3,7 +3,7 @@ date: 2026-05-16
 draft: false
 title: "Stage"
 description: "A backyard stage with a clear roof, firepit, projector screen, and performance-ready details that bring the neighborhood together."
-featured_image: "/images/projects/stage/stage-2.jpeg"
+featured_image: "/images/projects/stage/stage-3.jpg"
 ---
 
 ## Before
