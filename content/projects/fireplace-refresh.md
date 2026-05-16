@@ -28,6 +28,8 @@ Very cool, but outdated, and more importantly, broken. The insert will likely en
 
 ![Fireplace after 3](/images/projects/fireplace-refresh/fire-4.jpeg)
 
+![Fireplace fire](/images/projects/fireplace-refresh/fire-5.jpeg)
+
 The fireplace is now fully operational, bringing one of the elements indoors. Perfect for a winter night in Charleston where the cold can sneak up on you and sink into your bones. Nothing adds more to a space than a nice cozy fire.
 
 ## Details
