@@ -3,7 +3,7 @@ date: 2026-05-16
 draft: false
 title: "Fireplace Refresh"
 description: "A cast-iron fireplace insert overhaul that restored function and refined the hearth with a fresh navy mantel finish."
-featured_image: "/images/projects/fireplace-refresh/fire-2.jpg"
+featured_image: "/images/projects/fireplace-refresh/fire-2.jpeg"
 ---
 
 ## Problem
@@ -16,17 +16,17 @@ Less is more. We removed the insert entirely, setting it aside to be repurposed 
 
 ## Before
 
-![Fireplace before](/images/projects/fireplace-refresh/fire-1.jpg)
+![Fireplace before](/images/projects/fireplace-refresh/fire-1.jpeg)
 
 Very cool, but outdated, and more importantly, broken. The insert will likely end up stripped of its electrical components and repurposed in an outdoor build, or perhaps a cabin. TBD.
 
 ## After
 
-![Fireplace after 1](/images/projects/fireplace-refresh/fire-2.jpg)
+![Fireplace after 1](/images/projects/fireplace-refresh/fire-2.jpeg)
 
-![Fireplace after 2](/images/projects/fireplace-refresh/fire-3.jpg)
+![Fireplace after 2](/images/projects/fireplace-refresh/fire-3.jpeg)
 
-![Fireplace after 3](/images/projects/fireplace-refresh/fire-4.jpg)
+![Fireplace after 3](/images/projects/fireplace-refresh/fire-4.jpeg)
 
 The fireplace is now fully operational, bringing one of the elements indoors. Perfect for a winter night in Charleston where the cold can sneak up on you and sink into your bones. Nothing adds more to a space than a nice cozy fire.
 
