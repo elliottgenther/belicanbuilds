@@ -19,9 +19,11 @@
         {{ .CurrentSection.Title }}
       </aside>
       {{- partials.IncludeCached "social/share.html" . . -}}
+ {{ if ne .Section "projects" }}
       <h1 class="f1 athelas mt3 mb1">
         {{- .Title -}}
       </h1>
+      {{ end }}
       {{ with .Params.author | compare.Default .Site.Params.author }}
       <p class="tracked">
         {{- if compare.Eq $page.Language "de" "en" "es" "fr" "it" "no" "pt" -}}
