@@ -22,11 +22,11 @@ I broke ground in the winter of 2025, starting with framing in the driveway behi
 
 ![Fence framing 2](/images/projects/fence/big-fence-4.jpeg)
 
-![Fence framing 3](/images/projects/fence/big-fence-5.jpeg)
+![Driveway finished](/images/projects/fence/big-fence-6.jpeg)
 
 The driveway framing was complete, with everything set for the gate that will eventually hang from those posts.
 
-![Driveway finished](/images/projects/fence/big-fence-6.jpeg)
+![Fence framing 3](/images/projects/fence/big-fence-5.jpeg)
 
 From there I moved to the side of the house and gradually worked my way toward the back property line, where I paused the project. When it's no longer the dead of summer, I'll finish the back wall. As it sits now, the fence complements the Stage and Studio projects on the site.
 
