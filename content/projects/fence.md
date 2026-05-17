@@ -10,7 +10,7 @@ featured_image: "/images/projects/fence/big-fence-2.jpeg"
 
 This space got great sun exposure, making it perfect for five big raised garden beds built with cypress.
 
-But the big long chain-link fence was rusting and overrun with weeds and vines—a clear candidate for replacement.
+But the big long chain-link fence was rusting and overrun with weeds and vines. It was a clear candidate for replacement.
 
 ![Fence before](/images/projects/fence/big-fence-1.jpeg)
 
