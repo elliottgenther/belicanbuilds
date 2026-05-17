@@ -8,18 +8,19 @@
 
     <section class="flex-ns mt5 flex-wrap justify-around">
       {{ range .Paginator.Pages }}
+        {{ $page := . }}
         <div class="w-100 w-30-l mb4 relative">
           <article class="ba b--black-10 br2 overflow-hidden bg-white">
             {{ with .Params.featured_image }}
-              <a href="{{ $.RelPermalink }}" class="db link dim">
-                <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="db w-100" />
+              <a href="{{ $page.RelPermalink }}" class="db link dim">
+                <img src="{{ . | relURL }}" alt="{{ $page.Title }}" class="db w-100" />
               </a>
             {{ end }}
             <div class="pa4">
               <h2 class="f3 fw5 mt0 mb3">
-                <a href="{{ .RelPermalink }}" class="link black dim">{{ .Title }}</a>
+                <a href="{{ $page.RelPermalink }}" class="link black dim">{{ $page.Title }}</a>
               </h2>
-              <a href="{{ .RelPermalink }}" class="inline-flex items-center no-underline f6 tracked ttu black bg-near-white pa2 br2 hover-bg-light-gray">
+              <a href="{{ $page.RelPermalink }}" class="inline-flex items-center no-underline f6 tracked ttu black bg-near-white pa2 br2 hover-bg-light-gray">
                 Read more
                 <span class="ml2">→</span>
               </a>
