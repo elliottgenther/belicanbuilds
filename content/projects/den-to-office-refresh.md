@@ -12,7 +12,7 @@ This den was oozing with 70s nostalgia, but past its prime and in need of a fres
 
 ![Den before 1](/images/projects/den-to-office-refresh/den-to-office-1.jpeg)
 
-![Den before 2](/images/projects/den-to-office-refresh/den-to-office-2.png)
+![Den before 2](/images/projects/den-to-office-refresh/den-to-office-2edit.jpeg)
 
 ## After
 
