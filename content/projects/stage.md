@@ -2,32 +2,41 @@
 date: 2026-05-16
 draft: false
 title: "Stage"
-description: "A backyard stage with a clear roof, firepit, projector screen, and performance-ready details that bring the neighborhood together."
+description: "A backyard stage with a clear roof, firepit, and projector screen that turned a big empty yard into a place where things happen."
 featured_image: "/images/projects/stage/stage-3.jpg"
 ---
 
+It was a big backyard and it was not doing much. Grass, azaleas, a chain-link fence. Plenty of space and nothing to show for it.
+
 ## Before
 
-This was a big backyard with nowhere to go.
-
-![Stage before](/images/projects/stage/stage-1.jpeg)
+![Backyard before](/images/projects/stage/stage-1.jpeg)
 
 ## After
 
-We created a large stage topped with a clear roof so the trees and sky remain part of the experience. We also added hardware for a projector screen, so the space works for outdoor movies, but the real standout is live performance. On many evenings this stage has brought the neighborhood together with music and good energy.
+I built a stage. Large enough for a band, topped with a clear polycarbonate roof so you keep the sky without losing your gear to the rain. Hardware for a projector screen went in so the space works for outdoor movies too.
 
-A simple firepit was added to anchor the space and keep folks warm on chilly nights, and an owl box was installed high in the trees above the stage to attract the Barred Owls that frequent the yard.
+A firepit anchors the far end and keeps people warm when the temperature drops. An owl box went up high in the trees above the stage. The Barred Owls were already using the yard. Might as well give them somewhere official.
 
-The unruly azalea bushes were thinned out to open the space, and later the old chain-link fence was replaced with a 6‑ft wooden fence to bring privacy back to the setting.
+The azaleas got thinned out to open the sightlines. Later the chain-link came down and a six-foot wooden fence went up in its place. That made the whole thing feel intentional.
 
-## Gallery
+On a lot of evenings this stage has had a band on it and neighbors in the yard. That is what it was built for.
 
-![Stage gallery 2](/images/projects/stage/stage-2.jpeg)
+![Stage gallery](/images/projects/stage/stage-2.jpeg)
 
-![Stage gallery 3](/images/projects/stage/stage-3.jpg)
+![Stage from the yard](/images/projects/stage/stage-3.jpg)
 
-![Stage gallery 4](/images/projects/stage/stage-4.jpg)
+![Stage detail](/images/projects/stage/stage-4.jpg)
 
-![Stage gallery 5](/images/projects/stage/stage-5.jpeg)
+![Stage at night](/images/projects/stage/stage-5.jpeg)
 
-![Stage gallery 6](/images/projects/stage/stage-6.jpeg)
+![Stage wide view](/images/projects/stage/stage-6.jpeg)
+
+## Details
+
+- Built performance stage with clear polycarbonate roof
+- Installed projector screen hardware for outdoor movies
+- Added firepit
+- Installed owl box in trees above stage
+- Thinned azalea beds to open sightlines
+- Chain-link fence later replaced with six-foot wooden fence

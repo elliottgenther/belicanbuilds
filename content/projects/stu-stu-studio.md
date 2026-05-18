@@ -2,70 +2,75 @@
 date: 2026-05-15
 draft: false
 title: "Stu Stu Studio"
-description: "A garage renovation transformed into a bright, functional studio with a flexible layout and thoughtful details."
+description: "A 500 sq ft detached garage converted into a 700 sq ft studio apartment with a sunroom, full kitchen, bedroom, and bathroom."
 featured_image: "/images/projects/Studio/studio-3.jpeg"
 ---
 
-## Before
+It started as a 500 square foot detached two-car garage. It had a big overhang at the entrance and nothing else going for it. What it had was potential and enough square footage to work with.
 
-This was a 500 sq ft detached two-car garage with a prominent overhang at the entrance.
+I converted it into a 700 square foot studio. Here is how that happened.
 
-## After
+## The Shell
 
-We created a 700 sq ft studio with exposed rafters and an intentional floor plan that makes the most of the available space.
+I split the overhang down the middle. The left half became a sunroom, wrapped in windows. The right half became a covered front porch. Four-by-four posts define the porch and carry the load. Curtains give privacy when you want it.
 
-## Details
+The exterior got Hardie board siding to match the main house. From the outside it looks like it belongs there.
 
-This renovation turned a dusty old garage into a bright, functional studio. We split the existing overhang space into two, framing the left half as a sunroom wrapped in windows and opening the right half into a front porch. Several 4x4 posts reinforce the structure and define the porch area, while curtains provide privacy when needed.
+![Studio exterior](/images/projects/Studio/studio-1.jpeg)
 
-We matched the existing Hardie board siding so the exterior feels consistent. When you enter the front door, the space opens up. The kitchen is large and functional. We sourced cabinetry from a friend who was renovating and topped it with leathered quartz. Instead of running gas to the studio, we chose induction for clean, responsive cooking.
+## The Kitchen
+
+When you walk in the front door the kitchen is the first thing you see, and it is large. I sourced the cabinetry from a friend who was mid-renovation and did not need it anymore. Topped it with leathered quartz. No gas line to the building, so I put in induction. It cooks well and it is clean.
 
 ![Studio kitchen](/images/projects/Studio/studio-2.jpeg)
 
-In the back left corner, we created a bedroom area that is visually striking and intentionally flexible. Rather than walling it off, we used blinds so the space can change as needed. Built-in bookshelves on the bedroom side make use of the area and avoid furniture clutter.
+![Studio main space](/images/projects/Studio/studio-3.jpeg)
 
-![Studio bedroom](/images/projects/Studio/studio-7.jpeg)
+## The Bedroom
 
-Between the bedroom and bathroom, we added a closet with sliding mirror doors to make the space feel even bigger. Inside the closet, we used fragrant cedar for the interior, so the storage feels as good as it looks.
+The back left corner is the bedroom. I did not wall it off. Blinds define the space and keep it flexible. Built-in bookshelves on the bedroom side handle storage without furniture clutter. Between the bedroom and bathroom I put in a closet with sliding mirror doors. The mirrors make the space feel bigger. Inside the closet I used aromatic cedar. It is a small thing but you notice it every time you open the door.
+
+![Studio bedroom area](/images/projects/Studio/studio-7.jpeg)
 
 ![Studio closet](/images/projects/Studio/studio-8.jpeg)
 
-The back corner also houses a bathroom with a floating sink, room for a hamper, and a stacked washer and dryer. The rear half of the space was raised to accommodate plumbing and to create a split-level feel that makes the layout more interesting.
+## The Bathroom
 
-We framed the former garage door opening on the interior and added a French door. This gives the option for privacy or an open layout. We used open-cell insulation in the walls and closed-cell insulation between the rafters. After applying a fire-retardant barrier, we sprayed the ceiling paint multiple times until the color was right.
+The bathroom is in the back corner. Floating sink, room for a hamper, stacked washer and dryer. The rear half of the space was raised to accommodate the plumbing. That height change also creates a split-level feel that makes the layout more interesting than a flat box.
 
-![Studio interior](/images/projects/Studio/studio-5.jpeg)
+## The Details
 
-We painted the walls a warm white dove and painted the floor with the idea of adding tile or hardwood later.
+The former garage door opening became a French door on the interior. Open it up or close it off depending on the day.
 
-This project was fun and rewarding from concept to completion. It ended up fantastic. The studio feels small but generous, well designed without being overthought, and it is simply a peaceful place to be.
+Open-cell insulation in the walls, closed-cell between the rafters. Fire-retardant barrier over the ceiling, then multiple coats of paint until the color read correctly. Walls in warm Dove White. Floor painted as a base, with tile or hardwood to come later.
 
-## Gallery
+![Studio interior overview](/images/projects/Studio/studio-5.jpeg)
 
-![Stu Stu Studio 1](/images/projects/Studio/studio-1.jpeg)
+![Studio living area](/images/projects/Studio/studio-4.jpeg)
 
-![Stu Stu Studio 2](/images/projects/Studio/studio-2.jpeg)
+![Studio French door](/images/projects/Studio/studio-6.jpeg)
 
-![Stu Stu Studio 3](/images/projects/Studio/studio-3.jpeg)
+![Studio ceiling detail](/images/projects/Studio/studio-9.jpeg)
 
-![Stu Stu Studio 4](/images/projects/Studio/studio-4.jpeg)
+![Studio bathroom](/images/projects/Studio/studio-10.jpeg)
 
-![Stu Stu Studio 5](/images/projects/Studio/studio-5.jpeg)
+![Studio sunroom](/images/projects/Studio/studio-11.jpeg)
 
-![Stu Stu Studio 6](/images/projects/Studio/studio-6.jpeg)
+![Studio porch](/images/projects/Studio/studio-12.jpeg)
 
-![Stu Stu Studio 7](/images/projects/Studio/studio-7.jpeg)
+![Studio exterior detail](/images/projects/Studio/studio-13.jpeg)
 
-![Stu Stu Studio 8](/images/projects/Studio/studio-8.jpeg)
+![Studio finished](/images/projects/Studio/studio-14.jpeg)
 
-![Stu Stu Studio 9](/images/projects/Studio/studio-9.jpeg)
+## Details
 
-![Stu Stu Studio 10](/images/projects/Studio/studio-10.jpeg)
-
-![Stu Stu Studio 11](/images/projects/Studio/studio-11.jpeg)
-
-![Stu Stu Studio 12](/images/projects/Studio/studio-12.jpeg)
-
-![Stu Stu Studio 13](/images/projects/Studio/studio-13.jpeg)
-
-![Stu Stu Studio 14](/images/projects/Studio/studio-14.jpeg)
+- Converted 500 sq ft two-car garage into 700 sq ft studio
+- Split overhang into sunroom and covered front porch
+- Hardie board siding to match main house
+- Full kitchen with sourced cabinetry, leathered quartz countertops, induction range
+- Open bedroom with built-in bookshelves and sliding mirror closet doors
+- Aromatic cedar closet interior
+- Bathroom with floating sink, stacked washer and dryer
+- Raised rear floor to accommodate plumbing
+- French door at former garage opening
+- Open-cell wall insulation, closed-cell rafter insulation with fire-retardant barrier

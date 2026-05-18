@@ -2,33 +2,27 @@
 date: '2026-05-10T10:19:18-04:00'
 draft: false
 title: 'Big L Desk'
-description: "A custom built-in desk that maximizes workspace and storage in a compact home office."
-featured_image: "/images/projects/big-l-desk-after.jpeg"
+description: "A custom L-shaped desk built from birch plywood and pine, designed around how the client actually works."
+featured_image: "/images/projects/Big L Desk/big-l-desk-after.jpeg"
 ---
 
-## Problem
-
-This project redesigned a space from a makeshift desk into a multifunctional workspace. Day job on the left, hobby on the right. No more competing for real estate or unnecessary barriers to entry.
-
-## Design
-
-- Birch plywood for the top and trim.
-- Plywood edges left exposed to let the material “be what it is.”
-- 4x4 pine legs, cleaned up on the table saw and sanded to 220 grit.
-- Finished with 3 coats of satin polyurethane.
+The client had two things happening at that desk: a day job and a hobby. They were fighting over the same surface. That is not a hard problem to solve if you are willing to build the right tool for the job.
 
 ## Before
 
-![Before](/images/projects/big-l-desk-before.jpeg)
-
-The original setup was cramped and felt temporary. The client needed a workspace that supported both focused work and creative hobby time without feeling like one activity had to win.
+![Desk before](/images/projects/Big L Desk/big-l-desk-before.jpeg)
 
 ## After
 
-![After](/images/projects/big-l-desk-after.jpeg)
+I built an L-shape. Day job on the left, hobby on the right. Each side has enough room to spread out without crowding the other. The top is birch plywood with the edges left exposed. I did not try to hide what it is. The legs are 4x4 pine, cleaned up on the table saw and sanded to 220 grit. Three coats of satin polyurethane on everything.
 
-The final desk is a balanced, purposeful layout with a dedicated side for the day job and a separate side for hobby projects. It keeps both zones open, accessible, and visually unified.
+It is a simple desk. It does exactly what it needs to do.
+
+![Desk after](/images/projects/Big L Desk/big-l-desk-after.jpeg)
 
 ## Details
 
-The goal was to make the desk itself part of the solution. By letting the plywood edges show and keeping the structure simple, the desk feels honest and durable rather than overbuilt. The result is a clean, functional workspace that supports the way the client actually works.
+- Birch plywood top with exposed edges
+- 4x4 pine legs, cleaned up on the table saw, sanded to 220 grit
+- Three coats satin polyurethane
+- L-shape layout with dedicated zones for day job and hobby work

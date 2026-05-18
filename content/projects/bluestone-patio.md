@@ -1,24 +1,28 @@
 ---
 title: "Bluestone Patio"
 date: 2026-05-09
-description: "Natural bluestone that connects spaces, carries water, and invites you outside."
-featured_image: "/images/projects/bluestone-patio-after.jpg"
+description: "Natural bluestone connecting structures, carrying water away, and giving the backyard a reason to be used."
+featured_image: "/images/projects/Bluestone Patio/1 (2).jpeg"
 ---
+
+Getting from the back door to the garage meant crossing patchy grass. On a rainy day that meant mud in the house. There was nowhere to sit outside and no reason to linger.
+
+Bluestone fixed both problems at once.
 
 ## Before
 
-![Before](/images/projects/bluestone-patio-before.jpg)
+![Backyard before bluestone](/images/projects/Bluestone Patio/1 (3).jpeg)
 
 ## After
 
-![After](/images/projects/bluestone-patio-after.jpg)
+I laid the stone to connect the two structures and carry water away from both buildings, where it used to pool. It is beautiful material and it works hard. The surface gives you somewhere to put a chair. A bird feeder went in. Some plants around the edges.
+
+Once you give a backyard a reason to be used, people use it.
+
+![Bluestone patio after](/images/projects/Bluestone Patio/1 (2).jpeg)
 
 ## Details
 
-This project was all about defining and connecting spaces.
-
-The backyard had untapped potential, but getting from the back door to the garage meant crossing patchy grass, and on rainy days, that meant dragging mud into the house. There was no real place to sit outside, no reason to linger.
-
-Natural bluestone was the answer. Beautiful and functional in equal measure, it created a hardscape that works as both a living space and a practical path between structures. The stone is laid to carry water away from both buildings, where it used to pool during heavy rains.
-
-It turned into a real haven. A few well-chosen plants, a consistently refilled bird feeder, and suddenly the whole backyard becomes a reason to step outside. It simply invites you into nature, and once you're out there, you tend to stay a while.
+- Natural bluestone hardscape connecting back door to garage
+- Stone laid to carry water away from both structures
+- Created usable outdoor living area where none existed before

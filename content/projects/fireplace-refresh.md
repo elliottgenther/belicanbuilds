@@ -2,38 +2,39 @@
 date: 2026-05-16
 draft: false
 title: "Fireplace Refresh"
-description: "A cast-iron fireplace insert overhaul that restored function and refined the hearth with a fresh navy mantel finish."
+description: "A broken cast-iron insert removed, the firebox repointed with refractory cement, and the mantel repainted. The fireplace works again."
 featured_image: "/images/projects/fireplace-refresh/fire-2.jpeg"
 ---
 
-## Problem
+The house had an old Black Bart cast-iron fireplace insert. When it worked, it plugged into an outlet and used a blower to push warm air into the room. The blower was shot. The fireplace had not been used in years.
 
-This house had an old cast iron Black Bart fireplace insert that, when functional, plugged into an electrical outlet and used an engine to blow warm air into the living area. The engine was blown and the fireplace was not functional.
-
-## Design
-
-Less is more. We removed the insert entirely, setting it aside to be repurposed for a future outdoor project, and kept things simple. Less is more.
+The insert was interesting but it was broken, and a broken fireplace is just a hole in the wall.
 
 ## Before
 
 ![Fireplace before](/images/projects/fireplace-refresh/fire-1.jpeg)
 
-Very cool, but outdated, and more importantly, broken. The insert will likely end up stripped of its electrical components and repurposed in an outdoor build, or perhaps a cabin. TBD.
-
 ## After
 
-![Fireplace after 1](/images/projects/fireplace-refresh/fire-2.jpeg)
+I pulled the insert and set it aside. It will end up in an outdoor build someday, or maybe a cabin. Good cast iron does not go to waste.
 
-![Fireplace after 2](/images/projects/fireplace-refresh/fire-3.jpeg)
+With the insert out, I got into the firebox. The mortar was failing in spots, so I ground it all out with an angle grinder and repointed with refractory cement. That is the material you use when the joint is going to see temperatures above 2,000 degrees. Regular mortar will not hold.
 
-![Fireplace after 3](/images/projects/fireplace-refresh/fire-4.jpeg)
+The mantel got a coat of semi-gloss Hale Navy by Benjamin Moore. It sits well against the Dove White walls.
 
-![Fireplace fire](/images/projects/fireplace-refresh/fire-5.jpeg)
+Now it works. On a cold Charleston night, that matters.
 
-The fireplace is now fully operational, bringing one of the elements indoors. Perfect for a winter night in Charleston where the cold can sneak up on you and sink into your bones. Nothing adds more to a space than a nice cozy fire.
+![Fireplace after](/images/projects/fireplace-refresh/fire-2.jpeg)
+
+![Fireplace after, wider view](/images/projects/fireplace-refresh/fire-3.jpeg)
+
+![Fireplace mantel detail](/images/projects/fireplace-refresh/fire-4.jpeg)
+
+![Fire burning](/images/projects/fireplace-refresh/fire-5.jpeg)
 
 ## Details
 
-The mortar in the firebox was failing in some places. So we removed all mortar with an angle grinder and repointed with refractory cement, a specialized, high-heat resistant material designed for constructing or repairing fireplaces, stoves, and kilns, capable of withstanding temperatures from 2,200°F to over 3,000°F.
-
-As a finishing touch, we repainted the mantel a semi-gloss Hale Navy by Benjamin Moore, which complements the Dove White walls.
+- Removed non-functional cast-iron Black Bart insert
+- Ground out failing mortar with angle grinder
+- Repointed firebox with refractory cement rated for high-heat applications
+- Repainted mantel in semi-gloss Hale Navy by Benjamin Moore
