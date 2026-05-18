@@ -2,7 +2,7 @@
 title: "Mid Century Slat Wall"
 date: 2026-05-10
 description: "A structural porch pillar between the living and dining room becomes the centerpiece of a mid century modern slat wall."
-featured_image: "/images/projects/Mid Century Slat Wall/1 (1).jpeg"
+featured_image: "/images/projects/mid-century-slat-wall/slat-wall-after.jpeg"
 ---
 
 Whoever built this house thought it was a good idea to plant a porch pillar right between the dining room and living room. Structurally necessary, but visually an eyesore that split the space awkwardly and drew the eye for all the wrong reasons.
@@ -11,13 +11,13 @@ The client had always loved slat walls. This was the perfect opportunity. Rather
 
 ## Before
 
-![Living room before, pillar visible between dining and living areas](/images/projects/Mid Century Slat Wall/1.jpeg)
+![Living room before, pillar visible between dining and living areas](/images/projects/mid-century-slat-wall/slat-wall-before.jpeg)
 
 ## During
 
 The slat wall was only part of the story. While I was in there, I removed the popcorn ceiling and crown molding, patched the drywall, and painted the entire room. The ceiling fan came down too. The room was essentially stripped back before anything new went in.
 
-![Room during renovation, popcorn ceiling removed and room prepped for paint](/images/projects/Mid Century Slat Wall/slat-wall-during.jpeg)
+![Room during renovation, popcorn ceiling removed and room prepped for paint](/images/projects/mid-century-slat-wall/slat-wall-during.jpeg)
 
 ## After
 
@@ -25,11 +25,11 @@ Each slat was sanded to 240 grit, smooth enough to take stain evenly and finishe
 
 The ceiling fan was replaced with a flush mount fixture on a dimmer. Removing the pillar exposed the slab underneath, so I sourced matching hardwood flooring and patched it seamlessly. You would never know it was there.
 
-![Slat wall after, living room view](/images/projects/Mid Century Slat Wall/1 (1).jpeg)
+![Slat wall after, living room view](/images/projects/mid-century-slat-wall/slat-wall-after.jpeg)
 
-![Slat wall, close up of stain and finish](/images/projects/Mid Century Slat Wall/slat-wall-detail.jpeg)
+![Slat wall, close up of stain and finish](/images/projects/mid-century-slat-wall/slat-wall-detail.jpeg)
 
-![Slat wall in the lived-in room](/images/projects/Mid Century Slat Wall/slat-wall-lived-in.jpeg)
+![Slat wall in the lived-in room](/images/projects/mid-century-slat-wall/slat-wall-lived-in.jpeg)
 
 ## Details
 
