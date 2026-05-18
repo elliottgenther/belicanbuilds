@@ -1,26 +1,27 @@
 ---
-date: '2026-05-10T10:19:07-04:00'
+date: 2026-01-01
 draft: false
 title: 'Craftsman Walk-in Closets'
+tagline: "Creating Space"
 description: "Two walk-in closets in a jack-and-jill upstairs, both rebuilt from wire racks into custom birch plywood systems designed around how people actually get dressed."
 featured_image: "/images/projects/craftsman-walk-in-closet/walk-in-5.jpeg"
 ---
 
-The upstairs of this house had a jack-and-jill layout, with two bedrooms sharing a bathroom between them. Each room had its own large walk-in closet, and both were running the same wire rack system that wrapped three walls. Functional in the loosest sense, but inefficient and impossible to keep organized.
+The upstairs of this house had two bedrooms sharing a bathroom between them. Each room had a big walk-in closet, and both were running the same wire rack system. Three walls of it. The kind that comes in a box and takes an afternoon to put up. It works fine for a while, but it does not last and it does not look like anything.
 
-We rebuilt both from scratch using birch plywood, black steel rods, and a design approach that treated the closet as a real room rather than an afterthought.
+I pulled both of them out and built something to replace them.
 
 ## Closet One
 
 ### Before
 
-Wire racks on three walls, a popcorn ceiling, and no real system. Everything piled or crammed.
+Wire racks on three walls. Popcorn ceiling. No real system for anything.
 
 ![Closet one before](/images/projects/craftsman-walk-in-closet/walk-in-1.jpeg)
 
 ### Build
 
-Demo'd the wire racks, removed the popcorn ceiling, repaired drywall, and mapped out the footprint before a single piece of wood went in.
+I demo'd the racks, scraped the ceiling, patched the walls, and mapped out the footprint before cutting any wood. That part matters. A closet is a small space and every inch counts.
 
 ![Footprint mapped out during demo](/images/projects/craftsman-walk-in-closet/walk-in-2.jpeg)
 
@@ -30,7 +31,7 @@ Demo'd the wire racks, removed the popcorn ceiling, repaired drywall, and mapped
 
 ### After
 
-Three freestanding structures filling the space: a floor-to-ceiling shoe cubby on the right, a central tower with open shelving above and cabinet doors below, and double-hang sections on both sides for separating everyday wear from nicer pieces.
+Three structures. A floor-to-ceiling shoe cubby on the right. A center tower with open shelving above and cabinet doors below. Double-hang sections on both sides. Everything has a place and you can see it all from the door.
 
 ![Closet one after, full view](/images/projects/craftsman-walk-in-closet/walk-in-5.jpeg)
 
@@ -38,7 +39,7 @@ Three freestanding structures filling the space: a floor-to-ceiling shoe cubby o
 
 ## Closet Two
 
-The second closet followed the same design logic but gave us a chance to be more deliberate. With the first build behind us, we paid closer attention to grain direction and panel selection when cutting the birch plywood, matching patterns across faces where it would be visible. The cabinet doors in particular reflect that extra care.
+Same design, same house, second room. But by the time I got to this one I was paying closer attention to the wood. Birch plywood has a lot of character in the grain if you take the time to look at it before you cut. On the cabinet doors especially, I selected and oriented the panels so the grain had somewhere to go. It is a small thing. You might not notice it right away. But it is there.
 
 ![Closet two after, entry view](/images/projects/craftsman-walk-in-closet/walk-in-2-1.jpeg)
 

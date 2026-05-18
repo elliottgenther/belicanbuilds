@@ -1,14 +1,21 @@
 ---
-date: 2026-05-15
+date: 2023-07-01
 draft: false
-title: "Stu Stu Studio"
+title: "Studio"
+tagline: "The Art of Detachment."
 description: "A 500 sq ft detached garage converted into a 700 sq ft studio apartment with a sunroom, full kitchen, bedroom, and bathroom."
 featured_image: "/images/projects/Studio/studio-3.jpeg"
 ---
 
-It started as a 500 square foot detached two-car garage. It had a big overhang at the entrance and nothing else going for it. What it had was potential and enough square footage to work with.
+This was a 500 square foot detached two-car garage. It had a big overhang at the entrance and nothing else going for it. What it had was potential and enough square footage to work with.
 
-I converted it into a 700 square foot studio. Here is how that happened.
+I converted it into a 700 square foot studio. But I did not do it alone.
+
+A good friend and mentor of mine grew up in Charleston. A few years back he built out a Mercedes Sprinter van and headed west, hiking and running and picking up carpentry work along the way. When the time came to convert my garage, I called him. He came back.
+
+We did the project in two phases. The first was framing out the footprint, getting the bones right, figuring out where everything would go. Then life moved on and the project sat. A year later he returned and we finished it together. Every decision on this build went through both of us.
+
+This project is where I learned to build. Framing floors and walls, adding windows and doors, trim and finish work. I came out the other side knowing things I did not know before, and most of what I know how to do now traces back to this garage and the person I built it with.
 
 ## The Shell
 

@@ -1,7 +1,8 @@
 ---
-date: 2026-05-17
+date: 2026-02-01
 draft: false
 title: "Closet Office Conversion"
+tagline: "A room of one's own."
 description: "A guest room catch-all closet rebuilt as a birch plywood workspace, without giving up the clothing bar."
 featured_image: "/images/projects/junk-closet-conversion/junk-closet-2.jpeg"
 ---

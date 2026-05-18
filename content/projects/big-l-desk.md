@@ -1,7 +1,8 @@
 ---
-date: '2026-05-10T10:19:18-04:00'
+date: 2026-01-01
 draft: false
 title: 'Big L Desk'
+tagline: "Had to mullet over."
 description: "A personal L-shaped desk built from birch plywood and pine, designed around having two things to do and not enough room to do them."
 featured_image: "/images/projects/big-l-desk/big-l-desk-after.jpeg"
 ---

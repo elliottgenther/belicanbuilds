@@ -1,7 +1,8 @@
 ---
-date: 2026-05-16
+date: 2025-09-01
 draft: false
 title: "Den to Office Refresh"
+tagline: "Aight Den."
 description: "A 1970s den cleared out and rebuilt as a clean, open home office with built-in storage and fresh finishes throughout."
 featured_image: "/images/projects/den-to-office-refresh/den-to-office-3.jpeg"
 ---

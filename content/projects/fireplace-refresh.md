@@ -1,7 +1,8 @@
 ---
-date: 2026-05-16
+date: 2026-01-01
 draft: false
 title: "Fireplace Refresh"
+tagline: "So it glows."
 description: "A broken cast-iron insert removed, the firebox repointed with refractory cement, and the mantel repainted. The fireplace works again."
 featured_image: "/images/projects/fireplace-refresh/fire-2.jpeg"
 ---

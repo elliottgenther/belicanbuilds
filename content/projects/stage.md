@@ -1,7 +1,8 @@
 ---
-date: 2026-05-16
+date: 2022-01-01
 draft: false
 title: "Stage"
+tagline: "The Green Room."
 description: "A backyard stage with a clear roof, firepit, and projector screen that turned a big empty yard into a place where things happen."
 featured_image: "/images/projects/stage/stage-3.jpg"
 ---
@@ -20,7 +21,7 @@ A firepit anchors the far end and keeps people warm when the temperature drops. 
 
 The azaleas got thinned out to open the sightlines. Later the chain-link came down and a six-foot wooden fence went up in its place. That made the whole thing feel intentional.
 
-On a lot of evenings this stage has had a band on it and neighbors in the yard. That is what it was built for.
+On a lot of evenings this stage has had a band on it and neighbors in the yard. That is what it was built for. But on a quiet morning, with a cup of coffee and nobody else around, it is just as good. A covered place to sit outside and watch the yard wake up. The green room before the show, and the green room after.
 
 ![Stage gallery](/images/projects/stage/stage-2.jpeg)
 

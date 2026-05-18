@@ -1,7 +1,8 @@
 ---
-date: '2026-05-10T10:18:56-04:00'
+date: 2026-05-01
 draft: false
-title: 'Outdoor Gazebo Shower'
+title: 'Outdoor Shower'
+tagline: "The Gazebo Effect."
 description: "An outdoor shower built in aromatic cedar, set in a neglected corner of the backyard and finished with trellis and jasmine."
 featured_image: "/images/projects/outdoor-gazebo-shower/gazebo-9.jpeg"
 ---
@@ -22,7 +23,7 @@ I walked the space and found the right spot: three feet off the sunroom and the 
 
 The back wall, the built-in cubby, and all the trim are aromatic cedar. It smells right and it will hold up. I added trellis on each side and planted jasmine at the base. In a few years it will cover the whole structure. I finished the wood with penofin oil.
 
-It turned a neglected corner into somewhere worth going.
+Taking a shower here is something else. The cedar, the jasmine starting to climb, cool water on a hot Charleston night. You tell yourself you are just rinsing off. But with the smell of cedar and jasmine and the sky above you, are you sure that is all that is happening?
 
 ![Gazebo finished](/images/projects/outdoor-gazebo-shower/gazebo-4.jpeg)
 

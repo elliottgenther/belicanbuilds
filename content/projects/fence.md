@@ -1,42 +1,41 @@
 ---
-date: 2026-05-17
+date: 2025-01-01
 draft: false
 title: "Fence"
-description: "A six-foot privacy fence marking the property line with alternating boards and a new entry gate, part of a larger backyard transformation."
+tagline: "Setting Boundaries."
+description: "A six-foot privacy fence replacing a rusted chain-link line, built in sections with alternating boards and posts sized for a future driveway gate."
 featured_image: "/images/projects/fence/big-fence-8.jpeg"
 ---
 
+The chain-link fence had been there a long time. Long enough to rust through in places and disappear under years of vines. It needed to come out.
+
+I started in the winter of 2025, which is the right time to dig post holes and frame in Charleston before the heat sets in.
+
 ## Before
-
-This space got great sun exposure, making it perfect for five big raised garden beds built with cypress.
-
-But the big long chain-link fence was rusting and overrun with weeds and vines. It was a clear candidate for replacement.
 
 ![Fence before](/images/projects/fence/big-fence-1.jpeg)
 
 ## Progress
 
-I broke ground in the winter of 2025, starting with framing in the driveway behind the main house. I installed 8x8 posts to one day accommodate a driveway gate.
+I began at the driveway. Set 8x8 posts there because eventually a driveway gate will hang from them. Better to do it right the first time than to come back and redo it.
 
-![Fence framing 1](/images/projects/fence/big-fence-3.jpeg)
+![Driveway framing](/images/projects/fence/big-fence-3.jpeg)
 
-![Fence framing 2](/images/projects/fence/big-fence-4.jpeg)
+![Driveway framing, second view](/images/projects/fence/big-fence-4.jpeg)
 
-![Driveway finished](/images/projects/fence/big-fence-6.jpeg)
+![Driveway section finished](/images/projects/fence/big-fence-6.jpeg)
 
-The driveway framing was complete, with everything set for the gate that will eventually hang from those posts.
+From the driveway I worked my way down the side of the house and toward the back property line. I paused the project there. The dead of summer in Charleston is not the time to be setting posts and nailing fence boards. I will finish the back wall when the weather allows.
 
-![Fence framing 3](/images/projects/fence/big-fence-5.jpeg)
+![Side fence progress](/images/projects/fence/big-fence-5.jpeg)
 
-From there I moved to the side of the house and gradually worked my way toward the back property line, where I paused the project. When it's no longer the dead of summer, I'll finish the back wall. As it sits now, the fence complements the Stage and Studio projects on the site.
+![Side fence near completion](/images/projects/fence/big-fence-2.jpeg)
 
-![Fence side 1](/images/projects/fence/big-fence-2.jpeg)
+![Fence detail](/images/projects/fence/big-fence-7.jpeg)
 
-![Fence side 2](/images/projects/fence/big-fence-7.jpeg)
+![Fence from outside](/images/projects/fence/big-fence-8.jpeg)
 
-![Fence side 3](/images/projects/fence/big-fence-8.jpeg)
-
-![Fence side 4](/images/projects/fence/big-fence-9.jpeg)
+![Fence corner](/images/projects/fence/big-fence-9.jpeg)
 
 ## After
 
@@ -47,7 +46,8 @@ From there I moved to the side of the house and gradually worked my way toward t
 
 ## Details
 
-- Removed existing chain-link fence and stubborn root systems
-- Set posts and framed structure
-- Alternated 8ft 1x4 and 1x6 pressure-treated, ground-contact boards spaced evenly for privacy with visibility
-- Added entry gate (hardware details to come)
+- Removed existing chain-link fence and root systems
+- Set posts and framed structure in sections
+- Alternating 1x4 and 1x6 pressure-treated ground-contact boards
+- 8x8 posts at driveway sized for future gate
+- Back section to be completed when weather permits
