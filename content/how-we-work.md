@@ -1,17 +1,31 @@
 ---
-title: "How We Work"
-description: "The values and principles behind every Belican Builds project."
+title: "How I Work"
+description: "What to expect when you hire Belican Builds."
 featured_image: "/images/hero.jpg"
 ---
 
-We value **craft over shortcuts**, **function over appearance**, **honest conversation over comfortable silence**, and **your home over our schedule**.
+Belican Builds is just me. Elliott Genther. I do the work, I show up on time, and I answer the phone.
 
-While speed, aesthetics, a smooth sales process, and getting to the next job all have their place, the first thing in each of those pairs is what drives every decision we make.
+That matters because when you hire me, you get me. Not a crew you have never met. Not a subcontractor I called last week. I am the person who looks at your space, thinks through the problem, builds the solution, and stands behind it.
 
-**Spaces that work are the measure of progress.** A beautiful room that doesn't function is a missed opportunity. We design and build around how you actually live.
+Here is what I care about and what you can expect.
 
-**Collaboration with the client over working in isolation.** You know your home better than we do. The best results come from building together, not presenting a finished product and hoping for the best.
+## The work comes first
 
-**Responding to change over following a plan.** Every project reveals something unexpected. We stay flexible, communicate early, and solve problems as they come rather than pretending they weren't there.
+I am not trying to sell you anything. If something does not make sense for your space or your budget, I will tell you. The goal is a finished result you are happy with, not a bigger invoice.
 
-**Transparency over salesmanship.** You will always know what something costs, why it costs that, and what your options are. No surprises on the invoice.
+## You will always know what things cost
+
+Before anything starts, you know what it costs and why. If something changes mid-project, we talk about it before I proceed. No surprises on the invoice.
+
+## I work around how you actually live
+
+A beautiful room that does not function is a missed opportunity. I ask questions before I pick up a tool, because you know your home better than I do. The best results come from that conversation, not from me showing up with a plan already made.
+
+## Things come up
+
+Every project reveals something. A wall that is not where it should be. A pipe that changes the plan. When that happens I call you, tell you what I found, and we figure out the next step together. I do not pretend problems are not there.
+
+## The rate is $60 per hour plus materials
+
+No hidden markup on materials. You pay what I pay. The hourly rate covers everything else.
