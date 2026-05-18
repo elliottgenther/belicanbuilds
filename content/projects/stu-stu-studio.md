@@ -49,6 +49,9 @@ When you walk in the front door the kitchen is the first thing you see, and it i
 
 The back left corner is the bedroom. I did not wall it off. Blinds define the space and keep it flexible. Built-in bookshelves on the bedroom side handle storage without furniture clutter. Between the bedroom and bathroom I put in a closet with sliding mirror doors. The mirrors make the space feel bigger. Inside the closet I used aromatic cedar. It is a small thing but you notice it every time you open the door.
 
+I also built the bed frame and headboard. King size, built to fit the space and stay there.
+
+
 
 ![Studio bedroom](/images/projects/Studio/studio-6.jpeg)
 
