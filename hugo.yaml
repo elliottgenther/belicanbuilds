@@ -24,3 +24,6 @@ menus:
     - name: How I Work
       url: /how-we-work/
       weight: 3
+    - name: Contact
+      url: /contact/
+      weight: 4
