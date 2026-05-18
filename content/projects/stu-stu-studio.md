@@ -24,6 +24,7 @@ I split the overhang down the middle. The left half became a sunroom, wrapped in
 The exterior got Hardie board siding to match the main house. From the outside it looks like it belongs there.
 
 ![Studio exterior](/images/projects/Studio/studio-1.jpeg)
+![Studio shell detail](/images/projects/Studio/studio-13.jpeg)
 
 ## The Kitchen
 
