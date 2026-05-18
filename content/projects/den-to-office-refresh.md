@@ -6,7 +6,7 @@ description: "A 1970s den cleared out and rebuilt as a clean, open home office w
 featured_image: "/images/projects/den-to-office-refresh/den-to-office-3.jpeg"
 ---
 
-The den had good bones but it was tired. Popcorn ceiling, dark trim, a layout that did not have a clear purpose anymore. The client needed a home office. This room was going to become one.
+The den had good bones but it was tired. Popcorn ceiling, dark trim, a layout that did not have a clear purpose anymore. I needed a home office. This room was going to become one.
 
 ## Before
 
