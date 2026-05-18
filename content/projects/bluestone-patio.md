@@ -14,7 +14,7 @@ Getting from the back door to the garage meant crossing patchy grass. On a rainy
 
 ## During
 
-I dug out the footprint, added the base materials, and started laying stone. Once the initial area was in place I could see it — the path between the garage door and the sunroom entrance was going to be tight, and seating would be in direct conflict with it. The space did not feel right.
+I dug out the footprint, added the base materials, and started laying stone. Once the initial area was in place I could see it the path between the garage door and the sunroom entrance was going to be tight, and seating would be in direct conflict with it. The space did not feel right.
 
 So I expanded the footprint further toward the back of the property. That extension created a dedicated seating area that sits completely clear of the path between the two structures. It was the right call and it changed the whole dynamic of the space.
 
