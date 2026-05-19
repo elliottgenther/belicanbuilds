@@ -32,6 +32,9 @@ menus:
     - name: Contact
       url: /contact/
       weight: 4
+    - name: Made to Order
+      url: /made-to-order/
+      weight: 5
 ananke:
   pages:
     show_date: false
