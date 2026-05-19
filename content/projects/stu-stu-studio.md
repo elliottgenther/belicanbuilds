@@ -37,6 +37,8 @@ The exterior got Hardie board siding to match the main house. From the outside i
 
 ![Studio main space](/images/projects/Studio/studio-3.jpeg)
 
+![Studio kitchen island](/images/projects/Studio/studio-18.jpeg)
+
 ![Studio shell detail](/images/projects/Studio/studio-13.jpeg)
 
 ## The Kitchen
