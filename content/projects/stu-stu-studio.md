@@ -37,7 +37,6 @@ The exterior got Hardie board siding to match the main house. From the outside i
 
 ![Studio main space](/images/projects/Studio/studio-3.jpeg)
 
-![Studio kitchen island](/images/projects/Studio/studio-18.jpeg)
 
 ![Studio shell detail](/images/projects/Studio/studio-13.jpeg)
 
@@ -46,6 +45,8 @@ The exterior got Hardie board siding to match the main house. From the outside i
 When you walk in the front door the kitchen is the first thing you see, and it is large. I sourced the cabinetry from a co-worker who was mid-renovation and did not need it anymore. Topped it with leathered quartz. No gas line to the building, so I put in induction. It cooks well and it is clean.
 
 ![Studio kitchen](/images/projects/Studio/studio-11.jpeg)
+
+![Studio kitchen island](/images/projects/Studio/studio-18.jpeg)
 
 ## The Bedroom
 
