@@ -32,3 +32,6 @@ menus:
     - name: Contact
       url: /contact/
       weight: 4
+ananke:
+  pages:
+    show_date: false
