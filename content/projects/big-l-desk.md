@@ -15,7 +15,10 @@ I had two things happening at my desk: a day job and music. They were fighting o
 
 ## Build
 
-![Felix is a half a bubble off plumb, but the desk isn't](/images/projects/big-l-desk/big-l-desk-felix.jpeg)
+<figure>
+  <img src="/images/projects/big-l-desk/big-l-desk-felix.jpeg" alt="Felix supervising the build" />
+  <figcaption><em>Felix is a half a bubble off plumb, but the desk isn't.</em></figcaption>
+</figure>
 
 ## After
 
