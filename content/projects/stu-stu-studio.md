@@ -62,6 +62,8 @@ I also built the bed frame and headboard. King size, built to fit the space and 
 
 ![Studio closet](/images/projects/Studio/studio-8.jpeg)
 
+![Studio bedroom detail](/images/projects/Studio/studio-19.jpeg)
+
 ![Studio closet interior](/images/projects/Studio/studio-9.jpeg)
 
 ## The Bathroom
