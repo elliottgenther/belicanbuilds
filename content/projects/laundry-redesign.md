@@ -1,5 +1,5 @@
 ---
-date: 2026-05-15
+date: 2025-07-15
 draft: false
 title: "Laundry"
 tagline: "Tide and True."
