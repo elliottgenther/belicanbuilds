@@ -4,7 +4,7 @@ draft: false
 title: "Studio"
 tagline: "The Art of Detachment."
 description: "A 500 sq ft detached garage converted into a 700 sq ft studio apartment with a sunroom, full kitchen, bedroom, and bathroom."
-featured_image: "/images/projects/Studio/studio-3.jpeg"
+featured_image: "/images/projects/Studio/studio-16.jpeg"
 ---
 
 This was a 500 square foot detached two-car garage. It had a big overhang at the entrance and nothing else going for it. What it had was potential and enough square footage to work with.
