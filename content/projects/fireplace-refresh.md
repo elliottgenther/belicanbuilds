@@ -4,7 +4,7 @@ draft: false
 title: "Fireplace Refresh"
 tagline: "So it glows."
 description: "A broken cast-iron insert removed, the firebox repointed with refractory cement, and the mantel repainted. The fireplace works again."
-featured_image: "/images/projects/fireplace-refresh/fire-2.jpeg"
+featured_image: "/images/projects/fireplace-refresh/fire-6.jpeg"
 ---
 
 The house had an old Black Bart cast-iron fireplace insert. When it worked, it plugged into an outlet and used a blower to push warm air into the room. The blower was shot. The fireplace had not been used in years.
@@ -32,6 +32,8 @@ Now it works. On a cold Charleston night, that matters.
 ![Fireplace mantel detail](/images/projects/fireplace-refresh/fire-4.jpeg)
 
 ![Fire burning](/images/projects/fireplace-refresh/fire-5.jpeg)
+
+![Fireplace detail](/images/projects/fireplace-refresh/fire-6.jpeg)
 
 ## Details
 
