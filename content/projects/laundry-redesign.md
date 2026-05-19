@@ -9,13 +9,15 @@ featured_image: "/images/projects/laundry-redesign/laundry-after-1.jpeg"
 
 A space dedicated to cleaning things should itself be clean. That was the whole brief.
 
-The laundry room worked, technically. But it was chaotic in the way rooms get when nobody has thought about them. Things piled up. Supplies lived wherever they landed. Nothing had a place.
+The room worked, technically. But nothing had a place. Supplies piled up wherever they landed. It was the kind of space you rush through because it never felt sorted out.
 
-The fix was simple and fast. A cabinet sized to actually fit a big box of Tide and everything else that accumulates in a laundry room — detergent, dryer sheets, stain remover, the things you always need and can never find. Open cubbies on the side for smaller items that need to be visible and within reach.
+Three changes fixed it.
 
-Then the one detail that made the most difference: a hanging bar installed directly above the washer. Not nearby. Right there. So anything that does not go in the dryer can be moved from the drum to the bar in a single motion, without crossing the room, without thinking about it.
+A cabinet sized to actually hold a big box of Tide, plus everything else that accumulates: dryer sheets, stain remover, the things you always need and can never find. Open cubbies on the side for smaller items that should be visible and within reach.
 
-Good storage does not just hold things. It builds the action into the space so you do not have to decide every time.
+And a hanging bar installed directly above the washer. Not nearby. Right there. Anything that does not go in the dryer moves from the drum to the bar in one motion, without crossing the room, without thinking about it.
+
+Good storage builds the action into the space so you do not have to decide every time.
 
 ## Before
 
