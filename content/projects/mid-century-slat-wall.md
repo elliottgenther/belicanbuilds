@@ -3,7 +3,7 @@ title: "Mid Century Slat Wall"
 date: 2025-06-01
 tagline: "What's it slat all about?"
 description: "A structural porch pillar between the living and dining room becomes the centerpiece of a mid century modern slat wall."
-featured_image: "/images/projects/mid-century-slat-wall/slat-wall-after.jpeg"
+featured_image: "/images/projects/mid-century-slat-wall/slat-wall-detail.jpeg"
 ---
 
 Whoever built this house thought it was a good idea to plant a porch pillar right between the dining room and living room. Structurally necessary, but visually an eyesore that split the space awkwardly and drew the eye for all the wrong reasons.
