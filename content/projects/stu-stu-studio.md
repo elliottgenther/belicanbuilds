@@ -84,6 +84,10 @@ The former garage door opening became a French door on the interior that divides
 
 ![Studio sunroom](/images/projects/Studio/studio-12.jpeg)
 
+![Studio living room](/images/projects/Studio/studio-20.jpeg)
+
+![Studio sunroom detail](/images/projects/Studio/studio-21.jpeg)
+
 ## Details
 
 - Converted 500 sq ft two-car garage into 700 sq ft studio
