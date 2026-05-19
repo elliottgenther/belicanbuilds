@@ -1,6 +1,6 @@
 ---
 title: "Bluestone Patio"
-date: 2025-10-01
+date: 2026-01-01
 tagline: "Hard Escape."
 description: "Natural bluestone connecting structures, carrying water away, and giving the backyard a reason to be used."
 featured_image: "/images/projects/bluestone-patio/bluestone-12.jpeg"

@@ -1,5 +1,5 @@
 ---
-date: 2025-09-01
+date: 2025-10-01
 draft: false
 title: "Den to Office Refresh"
 tagline: "Aight Den."

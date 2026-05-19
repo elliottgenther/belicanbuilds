@@ -1,5 +1,5 @@
 ---
-date: 2026-02-01
+date: 2025-07-01
 draft: false
 title: "Closet Office Conversion"
 tagline: "A room of one's own."

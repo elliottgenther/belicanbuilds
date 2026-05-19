@@ -1,5 +1,5 @@
 ---
-date: 2023-07-01
+date: 2026-03-01
 draft: false
 title: "Studio"
 tagline: "The Art of Detachment."

@@ -1,6 +1,6 @@
 ---
 title: "Mid Century Slat Wall"
-date: 2025-06-01
+date: 2026-04-01
 tagline: "What's it slat all about?"
 description: "A structural porch pillar between the living and dining room becomes the centerpiece of a mid century modern slat wall."
 featured_image: "/images/projects/mid-century-slat-wall/slat-wall-detail.jpeg"
