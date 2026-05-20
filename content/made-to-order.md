@@ -39,4 +39,21 @@ Minor configuration adjustments available on request.
 
 ---
 
+## Craftsman Bed and Side Tables
+
+Simple. Sturdy. Built to last longer than anything you will find in a box store.
+
+Pine lumber box construction wrapped in birch plywood. Clean craftsman lines, no fuss. Available in any standard size -- twin, full, queen, king. Matching side tables available as a set or ordered separately.
+
+**Pine lumber and birch plywood. Oil-based satin polyurethane finish.**
+
+Available in any standard bed size. Minor modifications welcome.
+
+![Craftsman bed and side tables](/images/made-to-order/craftsman-bed-and-side-tables.jpeg)
+
+**Price: TBD** -- [Order one](mailto:elliott@belicanbuilds.com?subject=Made%20to%20Order%3A%20Craftsman%20Bed%20and%20Side%20Tables)
+
+
+---
+
 More to come.
