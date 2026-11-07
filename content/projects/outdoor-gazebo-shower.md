@@ -7,7 +7,7 @@ description: "An outdoor shower built in aromatic cedar, set in a neglected corn
 featured_image: "/images/projects/outdoor-gazebo-shower/gazebo-9.jpeg"
 ---
 
-There was nothing wrong with the backyard. It just was not being used. An outdoor shower would give it a reason to exist.
+There was nothing wrong with the backyard. It just was not being used. An outdoor shower would turn it into a daily destination.
 
 I walked the space and found the right spot: three feet off the sunroom and the back of the house. Enough room to move around, enough room for a lawn mower to get through. The footprint came from standing in the yard and feeling where the structure wanted to go.
 

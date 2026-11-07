@@ -11,7 +11,7 @@ This was a 500 square foot detached two-car garage. It had a big overhang at the
 
 I converted it into a 700 square foot studio. But I did not do it alone.
 
-A good friend and mentor of mine grew up in Charleston. A few years back he built out a Mercedes Sprinter van and headed west, hiking and running and picking up carpentry work along the way. When the time came to convert my garage, I called him. He came back.
+A good friend and mentor of mine grew up in Charleston. A few years back he built out a Mercedes Sprinter van and headed west, hiking and running and picking up carpentry work along the way. When the time came to convert my garage, I called him. I was lucky he was generous enough to come help.
 
 We did the project in two phases. The first was framing out the footprint, getting the bones right, figuring out where everything would go. Then life moved on and the project sat. A year later he returned and we finished it together. Every decision on this build went through both of us.
 
