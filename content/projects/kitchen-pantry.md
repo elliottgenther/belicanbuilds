@@ -13,7 +13,7 @@ The customer wanted something stylish, but most of all, functional.
 
 Three big drawers at the bottom hide the bulky stuff. Tall slots on the right get the pans out from under the stove and into a line of sight.
 
-The top shelf is recessed on purpose, so you can actually see and reach what's back there. Skip that step and the can of beans in the back becomes a 32-year-old that doesn't pay rent.
+The top shelf is recessed on purpose, so you can actually see and reach what's back there. Skip that step and you'll keep buying beans because you can't see the four cans you already own.
 
 A pantry that looks good, stays organized, and shows you what's on hand works on a whole other level. It makes you want to cook instead of reaching for a frozen pizza.
 
