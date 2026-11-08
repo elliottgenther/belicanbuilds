@@ -4,7 +4,7 @@ draft: false
 title: "Stage"
 tagline: "The Green Room."
 description: "A backyard stage with a clear roof, firepit, and projector screen that turned a big empty yard into a place where things happen."
-featured_image: "/images/projects/stage/stage-7.jpeg"
+featured_image: "/images/projects/stage/stage-7.jpg"
 ---
 
 It was a big backyard and it was not doing much. Grass, azaleas, a chain-link fence. Plenty of space and nothing to show for it.
