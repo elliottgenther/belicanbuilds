@@ -4,7 +4,7 @@ draft: false
 title: "Master Closet"
 tagline: "Down to the Wire"
 description: "Sagging wire racks replaced with a fully custom closet in painted birch plywood, built in modular sections and installed solo on a tight timeline."
-featured_image: "/images/projects/master-closet/closet-3.jpeg"
+featured_image: "/images/projects/master-closet/closet-14.jpeg"
 ---
 
 The old wire racks were doing what wire racks do. Sagging, bending, and holding less than the customer needed. They're quick to put up, and that's about all they have going for them.
@@ -42,6 +42,8 @@ There was a clock on this one. A torn-out closet means everything you own is pil
 ## After
 
 The cabinets are finished in Benjamin Moore Advance satin, which cures hard and stands up to daily use. The walls got eggshell.
+
+![Finished closet](/images/projects/master-closet/closet-14.jpeg)
 
 ![Finished closet, both sides full](/images/projects/master-closet/closet-3.jpeg)
 
