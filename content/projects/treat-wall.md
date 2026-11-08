@@ -19,6 +19,8 @@ Tall towers want to tip. So I added French cleats on the back and built boxes th
 
 Every shelf has a rail along the bottom for the plates to rest in, and another rail along the front so nothing slides forward. A plate on the floor is a plate she can't sell.
 
+The drawer faces are two pieces of birch plywood joined with a 30-degree bevel where they meet. It's a small detail. Not flashy, just enough to catch your eye.
+
 ![Treat wall build](/images/projects/treat-wall/treat-1.jpeg)
 
 ![Treat wall build](/images/projects/treat-wall/treat-2.jpeg)
@@ -52,3 +54,4 @@ Loaded up at a trade show, it does what it was built to do. The plates get the a
 - Additional cleats so the two cabinets clamp together as one unit
 - Bottom rails on every shelf for plates to rest in
 - Front rails on every shelf to keep plates from sliding forward
+- Drawer faces of two-piece birch plywood with a 30-degree bevel accent
